@@ -1,2 +1,3 @@
-# animals-dot
-The simplest artificial animal we have created
+## animals-dot
+
+The simplest artificial animal.
