@@ -1,6 +1,8 @@
 ## animals-dot
 
-A simple artificial animal as a plush interactive toy.
+A simple artificial animal as a small plush interactive toy.
+
+![dot](/images/dot.jpg)
 
 ### Design paradigm
 
