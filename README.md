@@ -23,7 +23,7 @@ In our previous discussion about the GA144, we identified a “low-power, edge-b
 Your question about “least cost” likely refers to identifying the least expensive way to develop or prototype this application, given the limited resources constraint. Here’s my analysis:
 Least Cost Option for Prototyping the Emotion-Recognizing IoT Toy with the GA144
 
-1. Hardware Costs (Minimum Configuration)
+#### Hardware Costs (Minimum Configuration)
 
 _GA144 Chip_
 
@@ -38,7 +38,7 @@ For the toy, use a low-cost microphone ($2–$5 for a basic electret mic) or acc
 * Power Supply: Use a coin cell battery (e.g., CR2032, ~$1) or USB power via the FTDI adapter, minimizing additional costs.
 * Total Hardware Cost: ~$35–$40 for a minimal prototype, assuming you source components cheaply or use existing lab equipment.
 
-2. Software/Development Costs
+#### Software/Development Costs
 
 _Programming Tools_
 GreenArrays provides arrayForth (the Forth-based IDE) for free, downloadable from their website. It runs on Windows or Linux via Wine, requiring no additional licensing fees.
@@ -48,13 +48,13 @@ _Learning Curve_
 Developing Forth code for the GA144 requires expertise, but for a simple emotion-recognition toy, you can start with basic I2C/SPI drivers and parallel node scripts. Web resources (e.g., comp.lang.forth, GitHub repositories like ga144tools) offer free tutorials and code examples, minimizing training costs.
 Time Investment: A small team (1–2 developers) with basic embedded systems knowledge could prototype in 2–4 weeks, leveraging open-source Forth libraries. No additional software costs are needed, but time is a resource—assume 40–80 hours at an estimated $50/hour for a freelancer or student, totaling $2,000–$4,000 in labor (if paid). For a truly low-cost approach, use volunteer or in-house talent to reduce this to zero.
 
-3. Other Costs
+#### Other Costs
 
 _Housing/Assembly_
 Use a simple 3D-printed or off-the-shelf plush toy shell (~$5–$10) or repurpose an existing stuffed animal, avoiding custom manufacturing costs initially.
 Testing: Minimal testing with a small group of children (e.g., family or friends) requires no direct cost, just time.
 
-4. Total Least Cost Estimate
+#### Total Least Cost Estimate
 
 * Hardware: $35–$40
 * Software/Development: $0 (if using free tools and volunteer labor) or $2,000–$4,000 (if hiring)
@@ -62,7 +62,7 @@ Testing: Minimal testing with a small group of children (e.g., family or friends
 * Grand Total (Minimum): ~$40–$50 for a fully functional prototype, assuming volunteer labor and minimal materials.
 * Realistic Total (With Paid Labor): ~$2,035–$4,050, still low compared to typical hardware prototypes ($10,000+ for IoT devices).
 
-Why This Is the Least Cost Option
+_Why This Is the Least Cost Option_
 * Minimal Components: The GA144’s low power and small size reduce the need for expensive power supplies or enclosures. Simple sensors/actuators keep costs down.
 * Free Tools: ArrayForth and open-source resources eliminate software expenses.
 * DIY Approach: Breadboarding or using SchmartBoards (as suggested in web forums) avoids the $450 evaluation board cost, leveraging community knowledge for cost-effective prototyping.
@@ -72,7 +72,7 @@ Real-Time Signal Processing (e.g., Sensor Networks): Requires more sensors, pote
 * Cryptographic Operations: Needs additional I/O for secure communication, increasing complexity and cost beyond the toy’s simplicity.
 * Scientific Instrumentation: Involves precision components and possibly external storage, making it costlier ($100+ for minimal setup) and less appealing for quick investment pitches.
 
-_Maximizing Investment Impact with Least Cost_
+#### Maximizing Investment Impact with Least Cost
 
 _Prototype Demo_
 
