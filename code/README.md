@@ -55,3 +55,5 @@ _Explanation_
 ### Comments
 
 Synching is best done by simply waiting for port communication, which is necessary anyway.  If sending another node plain data send the numbers; if sending coded functions or commands, the best way to encode the functions is as instructions to be executed (e.g. call to routine in RAM.)  I work in quadrature, to avoid square roots, when feasible.  If you look at `AN012` you will see an example of `I2C` support, 3-axis accelerometer reading, and lowpass filtering. Regret that it uses `colorForth`; I hadn't made `aF-3` yet when we did that `AN012` work was done immediately after arriving.
+
+Check [here](https://www.adafruit.com/product/2809)
