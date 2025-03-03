@@ -1,6 +1,6 @@
 ## D-Code version 0.1 Reference Guide
 
-The complete set of features and commands are listed on this page.
+The complete set of features and commands are listed on this page. This needs to be trimmed to suit sixteen ways to leave your lover.
 
 ### Index of Features
 

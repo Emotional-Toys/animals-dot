@@ -4,7 +4,7 @@ The baseline for aiventure-letty that is in here; content of Reference.md needs 
 
 ### The five fingers of four bitty
 
-All the a-holes who want to solve AI cannot get their heads around _The Turing Conundrum_, which, in as few words means that all computation is an illusion. More accurately, a _simulation_ of process and control. According to a 2024 mockumentary that was so dull one has to turn it off after twelve minutes, head pontificate about something _in between_ zero and one. This was already disclosed in 1952 by Korn and Korn but who cares about a robust literature survey? Since this bodes so well, here is a table of numbers.
+All the a-holes who want to solve AI cannot get their heads around _The Turing Conundrum_, which, in as few words means that all computation is an illusion. More accurately, a _simulation_ of process and control. According to a 2024 mockumentary that was so dull one has to turn it off after twelve minutes, heads pontificate about something _in between_ zero and one. This was already disclosed in 1952 by Korn and Korn but who cares about a robust literature survey? Since this bodes so well, here is a table of numbers.
 
 | binary | quinary | binary | quinary |
 |--------|---------|--------|---------|
